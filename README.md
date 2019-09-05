@@ -27,8 +27,8 @@ https://arxiv.org/abs/1601.00543
 
 ## 1MN.fig
 
-1MN.fig is the NMSE versus Measurement ratio: M/N=0.2 to M/N=0.9 for the two methods. 
+1MN.fig is the NMSE versus Measurement ratios: M/N=0.2 to M/N=0.9. 
 Here, we used the frist ten frames of the speech, which is with a sampling rate at 8 KHz.
 ## 2SNR.fig 
 
-2SNR.fig is the NMSE versus input SNR (0-20dB), the M/N=0.9.
+2SNR.fig is the NMSE versus input SNRs (0-20dB), the M/N=0.9.
